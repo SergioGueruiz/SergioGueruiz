@@ -1,7 +1,7 @@
 # About Me:
 👨‍💻 I’m currently working at kommit.
 <br>🤓 I’m looking for challenges.
-<br>🌱  I’m currently learning React and improving my Python skills
+<br>🌱  I’m currently improving my Python skills
 
 ![Codewars](https://www.codewars.com/users/SergioGueruiz/badges/micro)
 # 💻 Tech Stack:
